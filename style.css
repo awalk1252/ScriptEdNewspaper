@@ -1,0 +1,26 @@
+.nav-item {
+  float: left;
+  width:16%;
+  text-align: center;
+ }
+ 
+ #nav {
+  overflow: hidden;
+  background-color:red;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-bottom:15px;
+}
+
+.footer {
+  overflow: hidden;
+  background-color:red;
+  
+  
+}
+
+.footer-item {
+  float: left;
+  width:20%;
+  text-align:center;
+ }
